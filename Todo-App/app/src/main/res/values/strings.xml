@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Todo App</string>
+    
+    <!-- Quadrant Titles -->
+    <string name="quadrant_urgent_important">Do First</string>
+    <string name="quadrant_not_urgent_important">Schedule</string>
+    <string name="quadrant_urgent_not_important">Delegate</string>
+    <string name="quadrant_not_urgent_not_important">Eliminate</string>
+    
+    <!-- Actions -->
+    <string name="action_add_todo">Add Todo</string>
+    <string name="action_clear_completed">Clear Completed</string>
+    <string name="action_search">Search</string>
+    <string name="action_filter">Filter</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_move">Move</string>
+    <string name="action_edit">Edit</string>
+    
+    <!-- Dialog Labels -->
+    <string name="dialog_add_todo">Add New Todo</string>
+    <string name="dialog_edit_todo">Edit Todo</string>
+    <string name="dialog_set_priority">Set Priority</string>
+    <string name="dialog_set_due_date">Set Due Date</string>
+    
+    <!-- Form Labels -->
+    <string name="label_title">Title</string>
+    <string name="label_description">Description (Optional)</string>
+    <string name="label_priority">Priority</string>
+    <string name="label_due_date">Due Date</string>
+    <string name="label_quadrant">Quadrant</string>
+    
+    <!-- Priority Levels -->
+    <string name="priority_high">High</string>
+    <string name="priority_medium">Medium</string>
+    <string name="priority_low">Low</string>
+    
+    <!-- Empty States -->
+    <string name="empty_todos">No tasks here</string>
+    <string name="empty_search">No matching tasks found</string>
+    
+    <!-- Error Messages -->
+    <string name="error_empty_title">Title cannot be empty</string>
+    <string name="error_todo_not_found">Todo not found</string>
+    <string name="error_invalid_quadrant">Invalid quadrant</string>
+    <string name="error_unexpected">An unexpected error occurred</string>
+    
+    <!-- Button Labels -->
+    <string name="button_add">Add</string>
+    <string name="button_save">Save</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_close">Close</string>
+    <string name="button_clear">Clear</string>
+    <string name="button_dismiss">Dismiss</string>
+    
+    <!-- Search -->
+    <string name="search_placeholder">Search todos…</string>
+    
+    <!-- Upcoming Tasks -->
+    <string name="upcoming_tasks">Upcoming Tasks</string>
+    <string name="due_today">Due Today</string>
+    <string name="due_tomorrow">Due Tomorrow</string>
+    <string name="overdue">Overdue</string>
+</resources>
